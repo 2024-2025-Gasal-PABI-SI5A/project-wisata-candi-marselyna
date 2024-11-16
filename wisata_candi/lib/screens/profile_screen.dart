@@ -12,7 +12,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   bool isSignedIn = false;
   String fullName = 'Marselyna Fitri Mawarni';
   String userName = 'Sely';
-  int favoriteCandiCount = 0;
+  int favoriteCandiCount = 3;
 
   // TODO: 5. Implementasi fungsi sign in
   void SignIn() {
